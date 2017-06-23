@@ -49,3 +49,6 @@ C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1_
 C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.g.resources
 C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.Properties.Resources.resources
 C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\git\Team-New\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe.config
+C:\Users\Asus\Desktop\git\Team-New\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.exe
+C:\Users\Asus\Desktop\git\Team-New\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.pdb

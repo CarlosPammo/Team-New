@@ -1,0 +1,51 @@
+D:\C#2\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe.config
+D:\C#2\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe
+D:\C#2\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.pdb
+D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csprojResolveAssemblyReference.cache
+D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.baml
+D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.g.cs
+D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\App.g.cs
+D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1_MarkupCompile.cache
+D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.g.resources
+D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.Properties.Resources.resources
+D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csproj.GenerateResource.Cache
+D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.exe
+D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.pdb
+D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.baml
+D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.g.cs
+D:\C#2\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.dll
+D:\C#2\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.pdb
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe.config
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.exe
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.pdb
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.pdb
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.dll
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.pdb
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csprojResolveAssemblyReference.cache
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.baml
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.baml
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.g.cs
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.g.cs
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\App.g.cs
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1_MarkupCompile.cache
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.g.resources
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.Properties.Resources.resources
+D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe.config
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.exe
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.pdb
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.pdb
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.dll
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.pdb
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.baml
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.g.cs
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1_MarkupCompile.cache
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.g.resources
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.Properties.Resources.resources
+C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csproj.GenerateResource.Cache

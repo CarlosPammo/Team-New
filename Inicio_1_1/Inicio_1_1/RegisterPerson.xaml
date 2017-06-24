@@ -1,8 +1,9 @@
 ﻿<Window x:Class="Inicio_1_1.RegisterPerson"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="RegisterPerson" Height="500" Width="650">
+        Title="RegisterPerson" Height="500" Width="800" >
     <Grid>
+
         <Grid.RowDefinitions>
             <RowDefinition Height="4*"/>
             <RowDefinition/>
@@ -11,36 +12,36 @@
         <DataGrid x:Name="DGListPerson" Grid.Row="0" Margin="15" 
                   DataContext="{Binding}" ItemsSource="{Binding}" AutoGenerateColumns="False">
             <DataGrid.Columns>
-                <DataGridTextColumn x:Name="DGName" Header="Nombre"  Binding="{Binding Path=Name}"/>
-                <DataGridTextColumn x:Name="DGLastnameDad" Header="Apellido Paterno" Binding="{Binding Path=LastnameDad}"/>
-                <DataGridTextColumn x:Name="DGLastnameMom" Header="Apellido Materno" Binding="{Binding Path=LastnameMom}"/>
-                <DataGridTextColumn x:Name="DGTelephone" Header="Telefono" Binding="{Binding Path=Telephone}"/>
-                <DataGridTextColumn x:Name="DGCelular" Header="Celular" Binding="{Binding Path=Celular}"/>
-                <DataGridTextColumn x:Name="DGAddress" Header="Direccion" Binding="{Binding Path=Address}"/>
-                <DataGridTextColumn x:Name="DGRedSocial" Header="Red Social" Binding="{Binding Path=RedSocial}"/>
+                <DataGridTextColumn x:Name="DGName" Header="       Nombre   "  Binding="{Binding Path=Name}" Width="100"/>
+                <DataGridTextColumn x:Name="DGLastnameDad" Header="  Apellido Paterno" Binding="{Binding Path=LastnameDad}" Width="120"/>
+                <DataGridTextColumn x:Name="DGLastnameMom" Header="  Apellido Materno" Binding="{Binding Path=LastnameMom}" Width="120"/>
+                <DataGridTextColumn x:Name="DGTelephone" Header="      Telefono" Binding="{Binding Path=Telephone}" Width="100"/>
+                <DataGridTextColumn x:Name="DGCelular" Header="       Celular" Binding="{Binding Path=Celular}" Width="100"/>
+                <DataGridTextColumn x:Name="DGAddress" Header="     Direccion" Binding="{Binding Path=Address}" Width="100"/>
+                <DataGridTextColumn x:Name="DGRed_Social" Header="      Red Social" Binding="{Binding Path=Red_Social}" Width="100"/>
 
                 <DataGridTemplateColumn>
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
-                            <Button Content="Editar"/>
+                            <Button Content="Editar" Click="Update_Click"/>
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>
                 </DataGridTemplateColumn>
+
                 <DataGridTemplateColumn>
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
-                            <Button Content="Eliminar"/>
+                            <Button Content="Eliminar" Click="Delete_Click"/>
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>
                 </DataGridTemplateColumn>
-
-
 
             </DataGrid.Columns>
         </DataGrid>
-        <Button x:Name="Btn_Search" Content="Search" HorizontalAlignment="Left" Margin="451,28,0,0" Grid.Row="1" VerticalAlignment="Top" Width="80" FontFamily="Rockwell Extra Bold"/>
-        <Button x:Name="Btn_New" Content="New Contact" HorizontalAlignment="Left" Margin="127,28,0,0" Grid.Row="2" VerticalAlignment="Top" Width="120" FontFamily="Rockwell Extra Bold"/>
-        <Button x:Name="Btn_Close" Content="Close" HorizontalAlignment="Left" Margin="451,28,0,0" Grid.Row="2" VerticalAlignment="Top" Width="80" RenderTransformOrigin="0.442,0.769" FontFamily="Rockwell Extra Bold" Click="Btn_Close_Click"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="40,27,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="400"/>
+        <Button x:Name="Btn_Search" Content="Search" HorizontalAlignment="Left" Margin="552,30,0,0" Grid.Row="1" VerticalAlignment="Top" Width="80" FontFamily="Rockwell Extra Bold" Click="Btn_Search_Click"/>
+        <Button x:Name="Btn_New" Content="New Contact" HorizontalAlignment="Left" Margin="210,25,0,0" Grid.Row="2" VerticalAlignment="Top" Width="120" FontFamily="Rockwell Extra Bold" Click="Btn_New_Click"/>
+        <Button x:Name="Btn_Close" Content="Close" HorizontalAlignment="Left" Margin="552,25,0,0" Grid.Row="2" VerticalAlignment="Top" Width="80" FontFamily="Rockwell Extra Bold" Click="Btn_Close_Click"/>
+
+        <TextBox x:Name="TbSearch" HorizontalAlignment="Left" Height="23" Margin="40,27,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="491"/>
     </Grid>
 </Window>

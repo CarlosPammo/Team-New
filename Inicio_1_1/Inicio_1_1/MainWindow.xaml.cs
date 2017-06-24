@@ -32,5 +32,24 @@ namespace Inicio_1_1
             RegisterPerson modeRegister = new RegisterPerson();
             modeRegister.Show();
         }
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Empresas mode = new Empresas();
+            ListBusiness modeRegister = new ListBusiness();
+            modeRegister.Show();
+        }
+        private void BtnService_Click(object sender, RoutedEventArgs e)
+        {
+            Service mode = new Service();
+            ServiceMode modeService = new ServiceMode();
+            modeService.Show();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
+        }
+
+        
     }
 }

@@ -1,0 +1,24 @@
+﻿<Window x:Class="Inicio_1_1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Inicio_1_1"
+        mc:Ignorable="d"
+        Title="Window1" Height="252" Width="300">
+    <Grid>
+        <TextBox x:Name="TbName" HorizontalAlignment="Left" Height="20" Margin="105,16,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74"/>
+        <TextBox x:Name="TbAdress" HorizontalAlignment="Left" Height="20" Margin="105,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74"/>
+        <TextBox x:Name="TbNit" HorizontalAlignment="Left" Height="20" Margin="105,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74"/>
+        <TextBox x:Name="TbWebSite" HorizontalAlignment="Left" Height="20" Margin="105,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74"/>
+        <TextBox x:Name="TbPhone" HorizontalAlignment="Left" Height="20" Margin="105,177,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74"/>
+       
+        <Label  Content="Name" HorizontalAlignment="Left" Height="26" Margin="10,10,0,0" VerticalAlignment="Top" Width="87" RenderTransformOrigin="0.527,0.45"/>
+        <Label  Content="Adress" HorizontalAlignment="Left" Height="24" Margin="11,51,0,0" VerticalAlignment="Top" Width="86"/>
+        <Label  Content="Nit" HorizontalAlignment="Left" Height="24" Margin="11,92,0,0" VerticalAlignment="Top" Width="86"/>
+        <Label  Content="Web site" HorizontalAlignment="Left" Height="24" Margin="11,128,0,0" VerticalAlignment="Top" Width="64"/>
+        <Label  Content="Phone" HorizontalAlignment="Left" Height="26" Margin="11,171,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Accept" HorizontalAlignment="Left" Height="24" Margin="219,96,0,0" VerticalAlignment="Top" Width="63" Click="BtnAccept_Click"/>
+
+    </Grid>
+</Window>

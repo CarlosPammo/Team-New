@@ -8,7 +8,6 @@ namespace Contacts
 {
     public class Person: Contact
     {
-        //clase contacto
         public string LastnameDad { get; set; }
         public string LastnameMom { get; set; }
         public string Photo { get; set; }

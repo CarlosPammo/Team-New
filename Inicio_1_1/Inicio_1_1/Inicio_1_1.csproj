@@ -53,9 +53,36 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="DatsPerson.xaml.cs">
+      <DependentUpon>DatsPerson.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DatsSevice.xaml.cs">
+      <DependentUpon>DatsSevice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ListBusiness.xaml.cs">
+      <DependentUpon>ListBusiness.xaml</DependentUpon>
+    </Compile>
     <Compile Include="RegisterPerson.xaml.cs">
       <DependentUpon>RegisterPerson.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ServiceMode.xaml.cs">
+      <DependentUpon>ServiceMode.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
+    <Page Include="DatsPerson.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DatsSevice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ListBusiness.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -69,6 +96,14 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="RegisterPerson.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ServiceMode.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

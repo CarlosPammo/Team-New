@@ -15,40 +15,82 @@ D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.baml
 D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.g.cs
 D:\C#2\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.dll
 D:\C#2\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.pdb
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe.config
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.exe
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.pdb
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.pdb
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.dll
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.pdb
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csprojResolveAssemblyReference.cache
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.baml
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.baml
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.g.cs
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.g.cs
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\App.g.cs
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1_MarkupCompile.cache
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.g.resources
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.Properties.Resources.resources
-D:\C#2\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csproj.GenerateResource.Cache
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe.config
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.exe
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.pdb
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.pdb
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.dll
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.pdb
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csprojResolveAssemblyReference.cache
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.baml
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.baml
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.g.cs
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.g.cs
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\App.g.cs
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1_MarkupCompile.cache
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.g.resources
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.Properties.Resources.resources
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csproj.GenerateResource.Cache
-C:\Users\Asus\Desktop\git\Team-New\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe.config
-C:\Users\Asus\Desktop\git\Team-New\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.exe
-C:\Users\Asus\Desktop\git\Team-New\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.pdb
+D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\DatsPerson.baml
+D:\C#2\Inicio_1_1\Inicio_1_1\obj\Debug\DatsPerson.g.cs
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe.config
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.exe
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.pdb
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.pdb
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.dll
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\mscorlib.dll
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.pdb
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\es\mscorlib.resources.dll
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\normidna.nlp
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\normnfc.nlp
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\normnfd.nlp
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\normnfkc.nlp
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\normnfkd.nlp
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csprojResolveAssemblyReference.cache
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\DatsPerson.baml
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.baml
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.baml
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\DatsPerson.g.cs
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.g.cs
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.g.cs
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\App.g.cs
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1_MarkupCompile.cache
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.g.resources
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.Properties.Resources.resources
+G:\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe.config
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.exe
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.pdb
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.pdb
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.dll
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.pdb
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\DatsPerson.baml
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.baml
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\DatsPerson.g.cs
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.g.cs
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1_MarkupCompile.cache
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.g.resources
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.Properties.Resources.resources
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\ServiceMode.baml
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\ServiceMode.g.cs
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\DatsSevice.baml
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Inicio_1_1\obj\Debug\DatsSevice.g.cs
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe.config
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.exe
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\bin\Debug\Inicio_1_1.pdb
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.dll
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\bin\Debug\Contacts.pdb
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csprojResolveAssemblyReference.cache
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\DatsPerson.baml
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\DatsSevice.baml
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.baml
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.baml
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\ServiceMode.baml
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\DatsPerson.g.cs
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\DatsSevice.g.cs
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\MainWindow.g.cs
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\RegisterPerson.g.cs
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\ServiceMode.g.cs
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\App.g.cs
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1_MarkupCompile.cache
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.g.resources
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.Properties.Resources.resources
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.csproj.GenerateResource.Cache
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.exe
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1.pdb
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\ListBusiness.g.cs
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\Window1.g.cs
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\Inicio_1_1_MarkupCompile.lref
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\ListBusiness.baml
+C:\Users\alejandro\Desktop\Inicio_1_1\Inicio_1_1\obj\Debug\Window1.baml

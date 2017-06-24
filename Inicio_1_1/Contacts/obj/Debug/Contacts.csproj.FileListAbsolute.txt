@@ -3,13 +3,13 @@ D:\C#2\Inicio_1_1\Contacts\bin\Debug\Contacts.pdb
 D:\C#2\Inicio_1_1\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
 D:\C#2\Inicio_1_1\Contacts\obj\Debug\Contacts.dll
 D:\C#2\Inicio_1_1\Contacts\obj\Debug\Contacts.pdb
-D:\C#2\Pronto a subir\Inicio_1_1\Contacts\bin\Debug\Contacts.dll
-D:\C#2\Pronto a subir\Inicio_1_1\Contacts\bin\Debug\Contacts.pdb
-D:\C#2\Pronto a subir\Inicio_1_1\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
-D:\C#2\Pronto a subir\Inicio_1_1\Contacts\obj\Debug\Contacts.dll
-D:\C#2\Pronto a subir\Inicio_1_1\Contacts\obj\Debug\Contacts.pdb
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Contacts\bin\Debug\Contacts.dll
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Contacts\bin\Debug\Contacts.pdb
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Contacts\obj\Debug\Contacts.dll
-C:\Users\Asus\Desktop\Pronto a subir\Inicio_1_1\Contacts\obj\Debug\Contacts.pdb
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Contacts\bin\Debug\Contacts.dll
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Contacts\bin\Debug\Contacts.pdb
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Contacts\obj\Debug\Contacts.dll
+C:\Users\Asus\Desktop\Pronto a subir\Botones de registros de personas CRUD\Inicio_1_1\Contacts\obj\Debug\Contacts.pdb
+C:\Users\alejandro\Desktop\Inicio_1_1\Contacts\bin\Debug\Contacts.dll
+C:\Users\alejandro\Desktop\Inicio_1_1\Contacts\bin\Debug\Contacts.pdb
+C:\Users\alejandro\Desktop\Inicio_1_1\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+C:\Users\alejandro\Desktop\Inicio_1_1\Contacts\obj\Debug\Contacts.dll
+C:\Users\alejandro\Desktop\Inicio_1_1\Contacts\obj\Debug\Contacts.pdb

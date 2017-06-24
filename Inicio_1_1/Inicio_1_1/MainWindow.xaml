@@ -4,8 +4,14 @@
         
         Title="Contact-F@AST" Height="450" Width="500" >
     <Grid>
-        <Label Content="          WELCOME    &#xD;&#xA;     CONTACT-FAST" HorizontalAlignment="Left" Margin="140,50,0,0" VerticalAlignment="Top" Height="50" Width="200" FontFamily="Rockwell Extra Bold" FontSize="18"/>
-        <Button Content="Persons" HorizontalAlignment="Left" Margin="164,137,0,0" VerticalAlignment="Top" Height="40" Width="160" FontSize="14" FontFamily="Rockwell Extra Bold" Click="BtnRegisterPerson_Mode_Click"/>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Red" Offset="4"/>
+                <GradientStop Color="#FFA23333" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="            WELCOME    &#xD;&#xA;     To Quick Contacts" HorizontalAlignment="Left" Margin="129,53,0,0" VerticalAlignment="Top" Height="50" Width="237" FontFamily="Rockwell Extra Bold" FontSize="18"/>
+        <Button Content="People" HorizontalAlignment="Left" Margin="164,137,0,0" VerticalAlignment="Top" Height="40" Width="160" FontSize="14" FontFamily="Rockwell Extra Bold" Click="BtnRegisterPerson_Mode_Click"/>
         <Button Content="Business" HorizontalAlignment="Left" Margin="164,223,0,0" VerticalAlignment="Top" Height="40" Width="160" FontSize="14" FontFamily="Rockwell Extra Bold" Click="Button_Click_1"/>
         <Button Content="Services" HorizontalAlignment="Left" Margin="164,303,0,0" VerticalAlignment="Top" Height="40" Width="160" FontFamily="Rockwell Extra Bold" FontSize="14" Click="BtnService_Click"/>
         <Button Content="Exit" HorizontalAlignment="Left" Margin="374,379,0,0" VerticalAlignment="Top" Width="108" Height="30" Click="Button_Click"/>

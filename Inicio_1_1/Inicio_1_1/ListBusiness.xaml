@@ -7,18 +7,33 @@
         mc:Ignorable="d"
         Title="ListBusiness" Height="611" Width="765">
     <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Red" Offset="4"/>
+                <GradientStop Color="#FFA23333" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="93*"/>
             <RowDefinition Height="23*"/>
         </Grid.RowDefinitions>
-        <DataGrid x:Name="DGEmpresas" Grid.Row="0" Margin="15,0,15,15" 
-                  DataContext="{Binding}" ItemsSource="{Binding}" AutoGenerateColumns="False">
+        <DataGrid x:Name="DGEmpresas" Grid.Row="0" Margin="15" AutoGenerateColumns="False"
+                  DataContext="{Binding}" ItemsSource="{Binding}" IsReadOnly="True">
             <DataGrid.Columns>
                 <DataGridTextColumn x:Name="DGName" Header="             Name           " Binding="{Binding Path=Name}"/>
                 <DataGridTextColumn x:Name="DGPhone" Header="            Phone          " Binding="{Binding Path=Telephone}"/>
                 <DataGridTextColumn x:Name="DGAddress" Header="                    Adress                      " Binding="{Binding Path=Address}"/>
                 <DataGridTextColumn x:Name="DGNit" Header="             Nit           " Binding="{Binding Path=NumNit}"/>
                 <DataGridTextColumn x:Name="DGWebsite" Header="             Web Site           " Binding="{Binding Path=Web}"/>
+
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Eliminar" Click="Delete_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
             </DataGrid.Columns>
         </DataGrid>
 

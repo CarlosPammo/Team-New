@@ -25,19 +25,21 @@ namespace Inicio_1_1
         {
             InitializeComponent();
         }
-
+        //Metodo de llamada de ventana de datos a nuevo contacto 
         private void BtnRegisterPerson_Mode_Click(object sender, RoutedEventArgs e)
         {
             Person mode = new Person();
             RegisterPerson modeRegister = new RegisterPerson();
             modeRegister.Show();
         }
+        //Metodo de llamada de ventana de datos a nueva Enpresa 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             Empresas mode = new Empresas();
             ListBusiness modeRegister = new ListBusiness();
             modeRegister.Show();
         }
+        //Metodo de llamada de ventana de datos a nuevo numero de emerrgencia 
         private void BtnService_Click(object sender, RoutedEventArgs e)
         {
             Service mode = new Service();

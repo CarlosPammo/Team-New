@@ -3,6 +3,12 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="DatsPerson" Height="500" Width="500">
     <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Red" Offset="4"/>
+                <GradientStop Color="#FFA23333" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="5*" />
             <RowDefinition />
@@ -22,13 +28,13 @@
                 <ColumnDefinition />
                 <ColumnDefinition Width="2*" />
             </Grid.ColumnDefinitions>
-            <Label Grid.Column="0" Grid.Row="0" Content="Nombre:" VerticalAlignment="Center" />
-            <Label Grid.Column="0" Grid.Row="1" Content="Apellido Paterno:" VerticalAlignment="Center" />
-            <Label Grid.Column="0" Grid.Row="2" Content="Apellido Materno:" VerticalAlignment="Center" />
-            <Label Grid.Column="0" Grid.Row="3" Content="Telefono:" VerticalAlignment="Center" />
-            <Label Grid.Column="0" Grid.Row="4" Content="Celular:" VerticalAlignment="Center" />
-            <Label Grid.Column="0" Grid.Row="5" Content="Direccion:" VerticalAlignment="Center" />
-            <Label Grid.Column="0" Grid.Row="6" Content="Red Social:" VerticalAlignment="Center" />
+            <Label Grid.Column="0" Grid.Row="0" Content="Name:" VerticalAlignment="Center" />
+            <Label Grid.Column="0" Grid.Row="1" Content="Last Name:" VerticalAlignment="Center" />
+            <Label Grid.Column="0" Grid.Row="2" Content="Mother's Last Name:" VerticalAlignment="Center" />
+            <Label Grid.Column="0" Grid.Row="3" Content="Phone:" VerticalAlignment="Center" />
+            <Label Grid.Column="0" Grid.Row="4" Content="Cell Phone:" VerticalAlignment="Center" />
+            <Label Grid.Column="0" Grid.Row="5" Content="Address:" VerticalAlignment="Center" />
+            <Label Grid.Column="0" Grid.Row="6" Content="Social Network:" VerticalAlignment="Center" />
 
             <TextBox x:Name="TbName" Grid.Column="1" Grid.Row="0" Margin="10" />
             <TextBox x:Name="TbLastnameDad" Grid.Column="1" Grid.Row="1" Margin="10" />
@@ -45,8 +51,8 @@
                 <ColumnDefinition />
                 <ColumnDefinition />
             </Grid.ColumnDefinitions>
-            <Button x:Name="BtnAccept"  Grid.Column="1" Margin="10" Height="30" Content="Aceptar" Click="BtnAccept_Click" />
-            <Button x:Name="BtnCancel" Grid.Column="2" Margin="10" Height="30" Content="Cancelar" Click="BtnCancel_Click" />
+            <Button x:Name="BtnAccept"  Grid.Column="1" Margin="10" Height="30" Content="Accept" Click="BtnAccept_Click" />
+            <Button x:Name="BtnCancel" Grid.Column="2" Margin="10" Height="30" Content="Cancel" Click="BtnCancel_Click" />
         </Grid>
     </Grid>
 </Window>

@@ -78,6 +78,13 @@ namespace Inicio_1_1
             DGEmergency.DataContext = Service;
             DGEmergency.Items.Refresh();
         }
-      
+
+        private void Delete_Click(object sender, RoutedEventArgs e)
+        {
+            Service selected = (Service)DGEmergency.SelectedItem;
+            Servicios.Remove(selected);
+            DGEmergency.Items.Refresh();
+        }
+
     }
 }

@@ -82,5 +82,11 @@ namespace Inicio_1_1
             DGEmpresas.DataContext = Empresas;
             DGEmpresas.Items.Refresh();
         }
+        private void Delete_Click(object sender, RoutedEventArgs e)
+        {
+            Empresas selected = (Empresas)DGEmpresas.SelectedItem;
+            Empresas.Remove(selected);
+            DGEmpresas.Items.Refresh();
+        }
     }
 }

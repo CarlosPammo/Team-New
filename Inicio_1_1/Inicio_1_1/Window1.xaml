@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="Window1" Height="252" Width="300">
     <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Red" Offset="4"/>
+                <GradientStop Color="#FFA23333" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
         <TextBox x:Name="TbName" HorizontalAlignment="Left" Height="20" Margin="105,16,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74"/>
         <TextBox x:Name="TbAdress" HorizontalAlignment="Left" Height="20" Margin="105,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74"/>
         <TextBox x:Name="TbNit" HorizontalAlignment="Left" Height="20" Margin="105,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74"/>
